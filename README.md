@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Francesco Pelosin (@fpelosin-cvl)
 
 ## 🚀 About Me
-I'm a **Deep Learning Engineer** passionate about **computer vision segmentation, self-supervised learning, and synthetic data generation**. I thrive on solving complex problems and developing cutting-edge AI solutions.
+I'm a **Research Engineer** passionate about **computer vision segmentation, self-supervised learning, and synthetic data generation**. I thrive on solving complex problems and developing cutting-edge AI solutions.
 Before joining Covision Lab I got a Ph.D. in Continual Learning!
 
 ## 💡 Interests
